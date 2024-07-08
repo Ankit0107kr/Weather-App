@@ -1,0 +1,21 @@
+body {
+    position: relative;
+    min-height: 100vh;
+    margin: 0;
+    background: none;
+    overflow: hidden;
+  }
+  
+  body::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url('../images/bgw.jpg') no-repeat center center fixed;
+    background-size: cover;
+    filter: blur(4.5px);
+    z-index: -1; /* Ensure the background is behind all content */
+  }
+  
