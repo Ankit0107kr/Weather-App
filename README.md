@@ -1,3 +1,3 @@
-• Engineered a robust e-commerce platform powered by the MERN stack
-• Comprising MongoDB for database management,ExpressJS for backend server development,
-• ReactJS for dynamic user interfaces, and NodeJS for server-side scripting
+• Crafted a weather app using HTML and CSS for UI , Node & Express for backend.
+• leveraged OpenWeatherMap API to deliver real-time weather data.
+• Users can search for any location and view current conditions & forecasts with icon
